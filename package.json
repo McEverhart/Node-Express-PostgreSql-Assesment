@@ -1,7 +1,7 @@
 {
-  "name": "zid-be-node-express-postgresql-xx-assignment",
+  "name": "Node-Express-and-PostgresSQL",
   "version": "1.0.0",
-  "description": "zid-be-node-express-postgresql-xx-assignment qualified challenge.",
+  "description": "Node-Express-and-PostgresSQL.",
   "main": "jest.config.js",
   "directories": {
     "src": "src",
